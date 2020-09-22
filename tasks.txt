@@ -1,0 +1,44 @@
+[PL]
+1. Cięcie layoutów -> Html + CSS
+
+Dla wybranego sposród udostepnionych layout'ów graficznych należy przygotować stronę HTML z wykorzystaniem HTML5, CSS3/SASS/LESS. Strona powinna być w pełni responsywna. Zdjęcia wykorzystane w layout'cie graficznym mogą być zastąpione innymi. Charkter strony oraz układ zawartości powininen być zachowany.
+
+2. Pluginy jQuery / efekty Javascript
+
+Do strony HTML stworzonej w zad.1 należy doprogramować z wykorzystaniem natywnego JavaScript lub pluginów jQuery wybrane przez siebie co najmniej 3 dowolne efekty JS wzbogacające serwis w dbiorze/obsłudze. Efektami takim mogą być np. efekt paralaxy zależny od pozycji scroll'a przeglądarki, automatyczny slider, animowana nawigacja do poszczególnych sekcji.
+
+3. NodeTodo (express.js + mongodb + AngularJS)
+
+Udostępniony przez prowadzącego program NodeTodo należy tak zmodyfikować by użytkownik mógł wyświetlać listę wszystkich elementów Todo, elementów nie ukończonych oraz elementów ukońcoznych (3 listy, np. w zakładkach). Sam proces edycji elementów Todo powinien zostać rozszerzony o możliwość zmiany statusu dane elementu (np. poprzez checkbox / switch). Funkcjonalność usuwania elementu całkowicie z bazy danych powinna zostać przeniesiona do dodatkowego przycisku.
+
+4. CRUD in Sails.js 
+
+Należy przygotować małą aplikację w Sails.js, która będzie dawała możliwości CRUD na dowolnym modelu danych (np. Książka telefoniczna, książka kucharska itp.). Można wykorzystać dowolną bazę danych.
+
+5. Meteor.js Leaderboard
+
+Zadanie polega na przygotowaniu aplikacji dającej możliwość tworzenia listy rankingowej (np. piłkarzy, piosenkarzy, itp.). Główne funkcjonalności to dodawanie kolejnej pozycji do listy oraz usuwanie z niej pozycji, jak również możliwośći głosowania "w góre" jak i "w dół". Lista po każdym głosie powinna się odświeżyć i prezentować wyniki posortowane wg rankingu rosnąco, po przełączeniu malejąco.
+Elementem wiodącym w ocenie projektu będzie reaktywność aplikacji.
+
+
+[EN]
+1. Layout cutting -> Html + CSS
+
+For a selected of the provided graphical layouts, an HTML page should be prepared using HTML5, CSS3 / SASS / LESS. The site should be fully responsive. Pictures used in the graphical layout can be replaced with others. The page characteristics and content layout should be preserved.
+
+2. jQuery plugins / JavaScript effects
+
+The HTML page created in task 1 should be extended using native JavaScript or jQuery plugins - at least any 3 JS effects of your choice enriching the service in care / use. Such effects can be e.g. the paralaxy effect depending on the browser scroll position, automatic slider, animated navigation to individual website sections.
+
+3. NodeTodo (express.js + mongodb + AngularJS)
+
+The NodeTodo program provided by the lecturer should be modified so that the user can display a list of all Todo elements, unfinished elements and completed elements (3 lists, e.g. in tabs). The process of editing Todo elements should be extended with the option of changing the status of the data element (e.g. via checkbox / switch). The functionality of removing an item completely from the database should be moved to an additional button.
+
+4. CRUD in Sails.js
+
+You need to prepare a small application in Sails.js that will give CRUD capabilities on any data model (e.g. telephone directory, cookbook, etc.). You can use any database.
+
+5. Meteor.js Leaderboard
+
+The task is to prepare an application that allows you to create a ranking list (e.g. footballers, singers, etc.). The main functionalities are adding another item to the list and removing items from it, as well as the possibility of voting "up" and "down". The list after each vote should refresh and present results sorted by ranking in ascending order, after switching - in descending order.
+The leading element in the assessment of the project will be the reactivity of the application.
